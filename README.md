@@ -99,5 +99,5 @@ Experienced in handling complex datasets, integrating multiple sources, and deve
 ⭐ 🇪🇸 Abierto a oportunidades en Data Science
 ⭐ 🇺🇸 Open to Data Science opportunities
 
-## Estudios
+## Studies | Estudios
 <img width="900" height="700" alt="Image" src="https://github.com/user-attachments/assets/b79b42be-224c-4dfe-953e-100d077b1068" />
