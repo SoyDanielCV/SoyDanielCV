@@ -1,81 +1,103 @@
-# 👋 Hola, soy Luis Daniel Covarrubias Velázquez
+<!-- BANNER / HEADER -->
 
-🎯 Data Scientist enfocado en Machine Learning y análisis de datos
-📍 CDMX, México
+<h1 align="center">Hi 👋, I'm Luis Daniel Covarrubias Velázquez</h1>
+<h3 align="center">🇲🇽 Data Scientist | Machine Learning | Analytics</h3>
+
+<!-- TYPING EFFECT -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Turning+Data+into+Insights&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí | About Me
 
-Soy un profesional orientado a Data Science con experiencia en análisis de datos, modelado predictivo y generación de insights accionables.
+🇪🇸
+Soy un Data Scientist enfocado en construir modelos predictivos y soluciones basadas en datos que generen impacto real en negocio.
+Tengo experiencia trabajando con datos complejos, integrando múltiples fuentes y desarrollando modelos de Machine Learning end-to-end.
 
-Me especializo en construir soluciones basadas en datos que ayuden a la toma de decisiones, utilizando herramientas como Python, SQL y frameworks de Machine Learning.
-
-💡 Me interesa especialmente:
-
-* Machine Learning aplicado a negocio
-* Modelos predictivos (churn, demanda, clasificación)
-* Análisis exploratorio y storytelling con datos
+🇺🇸
+Data Scientist focused on building predictive models and data-driven solutions that create real business impact.
+Experienced in handling complex datasets, integrating multiple sources, and developing end-to-end ML solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Lenguajes
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge\&logo=xgboost\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge\&logo=pytorch\&logoColor=white)
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-### Visualización
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+</p>
 
 ---
 
-## 📊 Proyectos Destacados
+## 📊 Proyectos Destacados | Featured Projects
 
-### 🔹 Predicción de Churn (Telecom)
+### 🔹 Telecom Churn Prediction
 
-* Modelo de clasificación para predecir cancelación de clientes
-* +7,000 registros integrados desde múltiples fuentes
+🇪🇸
+
+* Modelo de churn con +7,000 clientes
+* Integración de múltiples datasets
 * Modelos: Logistic Regression, Random Forest, XGBoost
-* 🎯 Resultado: **AUC-ROC > 0.90**
+* 🎯 **AUC-ROC > 0.90**
 
-### 🔹 Análisis de Ventas de Videojuegos
+🇺🇸
 
-* Análisis de +16,000 registros de ventas globales
-* Identificación de tendencias por región y plataforma
-* Validación de hipótesis con pruebas estadísticas
-
-
----
-
-## 📫 Contacto
-
-📧 Email: [peli.covarrubias@gmail.com](mailto:peli.covarrubias@gmail.com)
-💼 LinkedIn: www.linkedin.com/in/daniel-c-velazquez
-📁 Portafolio: 
+* Churn prediction model with 7,000+ customers
+* Multi-source data integration
+* Models: Logistic Regression, Random Forest, XGBoost
+* 🎯 **AUC-ROC > 0.90**
 
 ---
 
-⭐ Siempre abierto a oportunidades en Data Science / Machine Learning
+### 🔹 Video Game Sales Analysis
 
+🇪🇸
+
+* +16,000 registros analizados
+* Análisis por región y plataformas
+* Pruebas estadísticas (t-test)
+
+🇺🇸
+
+* 16,000+ records analyzed
+* Regional & platform insights
+* Statistical testing (t-test)
+---
+
+## 📫 Contacto | Contact
+
+<p align="center">
+  <a href="mailto:peli.covarrubias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ 🇪🇸 Abierto a oportunidades en Data Science
+⭐ 🇺🇸 Open to Data Science opportunities
 
 ## Estudios
 <img width="900" height="700" alt="Image" src="https://github.com/user-attachments/assets/b79b42be-224c-4dfe-953e-100d077b1068" />
