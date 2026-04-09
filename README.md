@@ -63,19 +63,14 @@ Me especializo en construir soluciones basadas en datos que ayuden a la toma de 
 * Identificación de tendencias por región y plataforma
 * Validación de hipótesis con pruebas estadísticas
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=default)
 
 ---
 
 ## 📫 Contacto
 
 📧 Email: [peli.covarrubias@gmail.com](mailto:peli.covarrubias@gmail.com)
-💼 LinkedIn: (agrega tu link)
-📁 Portafolio: (agrega tu link)
+💼 LinkedIn: www.linkedin.com/in/daniel-c-velazquez
+📁 Portafolio: 
 
 ---
 
