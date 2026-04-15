@@ -89,9 +89,9 @@ Experienced in handling complex datasets, integrating multiple sources, and deve
   <a href="mailto:peli.covarrubias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/daniel-c-velazquez" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-c-velazquez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Velazquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</a>
 </p>
 
 ---
