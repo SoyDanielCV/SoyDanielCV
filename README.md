@@ -92,6 +92,9 @@ Experienced in handling complex datasets, integrating multiple sources, and deve
   <a href="https://www.linkedin.com/in/daniel-c-velazquez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Velazquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+  <a href="https://www.instagram.com/soydanielcv/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@soydanielcv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
